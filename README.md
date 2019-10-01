@@ -25,10 +25,10 @@ Have a great Hacktoberfest ya'll and happy hacking!
  - Cutwell, 2018
 
 ### Contributing
-Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make a pull request to add your name to this repository like so:
+Fork this project and add your username + profile link to the [Census](https://github.com/Cutwell/Hacktoberfest-Census#census) list below, then make  a pull request to add your name to this repository like so:
 
 ```markdown
-[Cutwell](https://github.com/Cutwell)
+[Cutwell](https://github.com/Cutwell) 
 ```
 ### Census
  - [Cutwell](https://github.com/Cutwell)
